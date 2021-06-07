@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hiren.netlify.app/"
 languageCode = "en-us"
 title = "Hiren's Home"
 copyright = "Hiren Barad" # cactus will use title if copyright is not set
