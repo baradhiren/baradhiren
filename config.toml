@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Hiren's Home"
 copyright = "Hiren Barad" # cactus will use title if copyright is not set
 theme = "cactus"
+enableEmoji=true
 
 # Main menu which appears below site header.
 [[menu.main]]
