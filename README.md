@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=baradhiren.baradhiren)
 [![Years Badge](https://badges.pufler.dev/years/baradhiren)](https://badges.pufler.dev)
 
-<a href="https://twitter.com/intent/follow?screen_name=preveen_raj">
+<a href="https://twitter.com/intent/follow?screen_name=baradhiren007">
    <img src="https://img.shields.io/twitter/follow/baradhiren.svg?label=Follow%20@baradhiren007" alt="Follow @baradhiren007" />
 </a>
 
