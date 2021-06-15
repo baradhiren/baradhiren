@@ -52,7 +52,7 @@ weight = 5
   projectsUrl = "https://github.com/baradhiren" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
-  dateFormat = "02-01-2006" # default
+  dateFormat = "January 2, 2006"
 
   # Post page settings
   show_updated = false # default
