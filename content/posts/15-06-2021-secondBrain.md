@@ -36,6 +36,7 @@ Following are some of the products in market/ tools under active development whi
 
 - [Roam Research](https://roamresearch.com/)
 - [Obsidian](https://obsidian.md/)
+- [Athens](https://github.com/athensresearch/athens)
 - [Foam](https://github.com/foambubble/foam)
 - [Logseq](https://github.com/logseq/logseq)
 
