@@ -9,10 +9,14 @@ DefaultContentLanguage = "en"
   [languages.en]
     title = "Hiren's Home"
     languageName = "English"
+    languageNameShort = "en"
+    languageFlag = "🇬🇧"
     weight = 1
   [languages.gu]
     title = "મારા અનુભવ"
     languageName = "Gujarati"
+    languageNameShort = "gu"
+    languageFlag = "🇮🇳"
     weight = 2
 
 
