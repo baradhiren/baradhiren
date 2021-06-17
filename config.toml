@@ -1,8 +1,20 @@
 baseURL = "https://www.baradhiren.com/"
-languageCode = "en-us"
+#languageCode = "en-us"
 title = "Hiren's Home"
 copyright = "Hiren Barad" # cactus will use title if copyright is not set
 theme = "cactus"
+
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    title = "Hiren's Home"
+    languageName = "English"
+    weight = 1
+  [languages.gu]
+    title = "મારા અનુભવ"
+    languageName = "Gujarati"
+    weight = 2
+
 
 # Main menu which appears below site header.
 [[menu.main]]
