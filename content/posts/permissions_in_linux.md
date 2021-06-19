@@ -28,11 +28,11 @@ For my Automation Framework to log results to ReportPortal there was a small con
 Looks simple. My task would have been done here, If I had to run all tests on every environment from my local.😌 But it doesn't work like that. So, I had to make sure it works on our CI/CD environment as well (Like it should in a normal Software Development team).
 
 # Problem
-We have our CI/CD environment built on a cloud computing provider. And the we run our tests on a Dockerized solution using docker-compose files which use Linux as their base OS.
+We have our CI/CD environment built on a cloud computing platform. And we run our tests on a Dockerized solution using docker-compose files which use Linux as their base OS.
 
-One more thing is before sending data to report portal host we also need to connect to a secure network. And to achieve this we had a small **Shell script** which was doing that for us.
+One more thing is before sending data to report portal host we also need to connect to a secure network. And to achieve this we had a small ***Shell script*** which was doing that for us.
 
-But all my PR builds were failing when it came to running the shell script. And the error it gave was:
+But all my PR builds were failing when it reached to running the shell script part. And the error it gave was:
 
 ```
 /code/script.sh: Permission denied
@@ -63,12 +63,12 @@ Still I was getting the same error.
 Note: I would have had to add those capabilities later on even if my script started executing. Because without those capabilities docker would not have been able to change the Network Interface and connect to a secure network.
 
 ## Third try
-After losing all hope and not able to find what the issue is I tried to do one last thing. I tried to run the tests by simulating the cloud environment on my local. Since I use a PC, I built the whole thing and ran tests on my local using Docker and WSL2. And I got the same error. Asking a colleague of mine he casually suggested me if I have assigned execute permissions to the file. 🤦‍♂️
+After losing all hope and not able to find what the issue was I tried to do one last thing. I tried to run the tests by simulating the cloud environment on my local. Since I use a PC, I built the whole thing and ran tests on my local using Docker and WSL2. And I got the same error. Asking a colleague of mine he casually suggested me if I have assigned execute permissions to the file. 🤦‍♂️
  
 Since, I created the file using VS Code on my windows machine it didn't occur to me to assign execute permissions to the file. I gave it execute [privileges](https://www.tutorialspoint.com/unix/unix-file-permission.htm), committed the change and it started working as expected.
 
 I felt so stupid after missing such a basic thing. 😄 
 
-Have you faced any such issues. Connect and let's have a laugh about them on:
+Have you faced any such issues. Let's connect and have a laugh about them on:
 - [Twitter](https://twitter.com/baradhiren007) 
 - [LinkedIn](https://www.linkedin.com/in/baradhiren)
