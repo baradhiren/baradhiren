@@ -1,6 +1,7 @@
 baseURL = "https://www.baradhiren.com/"
 languageCode = "en-us"
-title = "Hiren's Home"
+title = "Supermoeth"
+disqusShortname = "https-www-baradhiren-com"
 copyright = "Hiren Barad" # cactus will use title if copyright is not set
 theme = "cactus"
 
@@ -43,7 +44,7 @@ weight = 5
   googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "My name is Hiren. I am a professional QA with burgeoning interest in Cryptography, Human Psychology, Anthropology, and Biology. This site is to share my experiences as I float through life."
+  description = "I have written something for you. Checkout Writings."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -59,7 +60,7 @@ weight = 5
   showReadTime = true # default
 
   [params.comments]
-    enabled = false # default
+    enabled = true # default
     engine = "disqus" # more supported engines will be added.
 
   # the value of name should be an valid font awesome icon name (brands type)
