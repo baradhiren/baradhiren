@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "name": "VM management",
+      "url": "https://gist.github.com/baradhiren/800a982c2775268d63245c578a4d227a",
+      "desc": "A Powershell script to manage your VMs on VMWare ESXi."
+    },
+    {
+      "name": "Cactus Hugo Theme Variant",
+      "url": "https://github.com/baradhiren/hugo-theme",
+      "desc": "A customized cactus theme for Hugo"
+    }
+  ]
+}
