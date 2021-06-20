@@ -19,9 +19,8 @@ Visit the [now](/now) page to get more on my latest projects.
 
 
 
-💬 Let's talk about how we can improve software quality.
-
 ## Connect with me:
+💬 Let's talk about how we can improve software quality.
 
 [LinkedIn](https://www.linkedin.com/in/baradhiren)
 
