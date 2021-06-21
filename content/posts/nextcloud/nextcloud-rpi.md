@@ -70,7 +70,7 @@ Once you have connected your Pi to your network and it is powered on, You can us
 By default SSH access on your Pi will be disabled. You will need to enable it from the webUI of NextCloud. Follow below steps to do so:
 1. Go to `https://nextcloudpi` or `https://nextcloudpi.local` 
 2. If that doesn't work go to https://`rpi_Address`:4443 in your browser.
-    ![Activate Screen](../images/activateScreen.png)
+    ![Activate Screen](/posts/nextcloud/images/activateScreen.png)
 3. Export your NextCloudPi passwords to a secure place.
 4. Click on Activate.
 5. Do not Refresh if Activation takes some time. If you do your old passwords will be invalidated.
@@ -80,7 +80,7 @@ By default SSH access on your Pi will be disabled. You will need to enable it fr
 
 6. Go to `https://rpi_address:4443/?app=dashboard`
 7. Select SSH under Networking from left hand side navigation bar.
-        ![SSH Setup](../images/ssh_nextcloud.png)
+        ![SSH Setup](/posts/nextcloud/images/ssh_nextcloud.png)
 8. Check the **Activate** box.
 9.  Set the username password and click on **Apply**.
 

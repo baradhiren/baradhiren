@@ -18,11 +18,11 @@ If you need any help, Checkout [How to setup NextCloud on a Raspberry Pi]({{< re
 Open your NextCloud dashboard and go to settings.
 
 You should see External Storage Support app and it should be enabled.
-![ESS App](../images/ExternalStorageSupport.png)
+![ESS App](/posts/nextcloud/images/ExternalStorageSupport.png)
 
 If you don't, Search for it by clicking on Search button and click on Download and Enable.
 
-# Plugin your HDD
+# Plug in your HDD
 Connect your HDD with your Pi.
 Find your Hard drive's device id by executing following command:
 
@@ -30,7 +30,7 @@ Find your Hard drive's device id by executing following command:
 sudo lsblk
 {{< /highlight >}}
 
-![lsblk output](../images/lsblk.png)
+![lsblk output](/posts/nextcloud/images/lsblk.png)
 
 You will want to mount your Hard drive to a specific location. In my case I am mounting my HDD to `/media/My_HDD`
 To do this execute following command:
@@ -48,7 +48,7 @@ sudo chmod -R 0750 /path/to/HDD
 # Configure External Storage Support
 Go to Settings and select External Storage Support to configure your attached HDD with NextCloud.
 If you are logging in as Admin user, Select the one under **Administration** and not the one under **Personal**.
-![Correct ESS Setting](../images/ExternalStorageSupportsetting.png)
+![Correct ESS Setting](/posts/nextcloud/images/ExternalStorageSupportsetting.png)
 
 Configure your local storage by entering following details:
 
@@ -57,7 +57,7 @@ Configure your local storage by entering following details:
 - **Configuration**: Path to where your HDD is mounted
 - **Available For**: Access Privileges
 
-![Local storage ESS Setting](../images/local.png)
+![Local storage ESS Setting](/posts/nextcloud/images/local.png)
 
 Click on the ✅ and you are good to go.
 
