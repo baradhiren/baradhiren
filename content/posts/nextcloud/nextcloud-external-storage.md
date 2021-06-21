@@ -1,10 +1,12 @@
 ---
+layout: blog
 title: Setup your External HDD with NextCloud
 date: 2021-06-20 23:12:06
 tags:
     - NextCloud
 categories: cloud
 keywords: 
+rating: 5
 ---
 
 
