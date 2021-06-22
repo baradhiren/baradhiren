@@ -6,10 +6,10 @@ tags:
   - Raspberry Pi
 categories: cloud
 keywords: null
-thumbnail: https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelp.nextcloud.com%2Ft%2Fnextcloud-instalation-not-running-on-rpi-8gb-model%2F85325&psig=AOvVaw32iiYkT1C0aFG4yOYwkkvH&ust=1624434944138000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCOCf-vDhqvECFQAAAAAdAAAAABAD
-rating: 3
+thumbnail: /images/uploads/raspberry-pi-nextcloud.png
+rating: 4
 ---
-I am personally (and digitally) deeply integrated into the Google ecosystem. And because of that I've been feeling a little paranoid because of posts like [this](https://news.ycombinator.com/item?id=26390833) and [this](https://news.ycombinator.com/item?id=24965432). I have been thinking of decreasing my reliance on Google services step by step.
+Digitally, I am deeply integrated into the Google ecosystem. And because of that I've been feeling a little paranoid because of posts like [this](https://news.ycombinator.com/item?id=26390833) and [this](https://news.ycombinator.com/item?id=24965432). I have been thinking of decreasing my reliance on Google services step by step.
 
 So, when Google discontinued their **Unlimited Free Storage** plan for [Google Photos](https://www.cnet.com/how-to/google-photos-unlimited-free-storage-has-ended-heres-what-to-do-now/), I took it as an opportunity to look for a better alternative. 
 
