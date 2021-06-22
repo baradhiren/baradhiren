@@ -61,7 +61,7 @@ Configure your local storage by entering following details:
 * **Configuration**: Path to where your HDD is mounted
 * **Available For**: Access Privileges
 
-![Local storage ESS Setting](/posts/nextcloud/images/local.png "ESS Local storage settings")
+![Local storage ESS Setting](/images/uploads/local.png "ESS Local storage settings")
 
 Click on the ✅ and you are good to go.
 
