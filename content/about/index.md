@@ -7,7 +7,7 @@ I am a Computer Science gradute from [Dharmsinh Desai University](https://www.dd
 
 ## Work 
 
-I'm a Professional QA currently:
+I'm a Professional QA. Currently:
 
 👔 Helping clients on [Toptal](https://www.toptal.com) implement and execute best QA practices. 
 
@@ -15,7 +15,7 @@ I'm a Professional QA currently:
 
 💻 Learning Javascript and concepts of UI/UX design 
 
-Visit the [now](/now) page to get more on my latest projects.
+Visit the [now](/now) page to get more on my latest endeavours.
 
 
 
