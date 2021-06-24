@@ -5,8 +5,6 @@ date: 2021-06-22T08:33:41.318Z
 thumbnail: /images/uploads/image-1580161099861-f2f871d16892f5b8859b0822fa740cc3.png
 rating: 4
 ---
-`Note: The information provided below comes from my experience and thus only my thoughts. I encourage every one of you to do your own research.`
-
 It was 2017, When I first learned about something called **Remote Work.** The idea of working from anywhere, anytime and the possibility of meeting new people and learning new things while doing so seemed so flourishing that I couldn't stop myself from applying to remote jobs. 
 
 But there was a catch. Remote work wasn't that mainstream at that time plus Companies who were recruiting for such jobs did not have enough resources to go through every resume they receive from literally every corner of the world(with internet). So, it turned out in two ways: Either you won't get a reply back from the company or they will put some kind of restriction in job description that only people from specific geography can apply for the 'remote' job under consideration.
@@ -71,3 +69,5 @@ It's OK if you don't get selected, It is not a big deal. Toptal gives you anothe
 When I started searching for Remote Work in 2017, I never thought that there will be a global pandemic. Which will force everyone to go remote (partially or fully). But thinking optimistically it has introduced this wonderful form of working to a larger audience. And it is not going anywhere any time soon.
 
 What are your thoughts? Share them in comments below.
+
+`Note: `*`Opinions expressed are solely my own and do not express the views or opinions of any third party.`*
