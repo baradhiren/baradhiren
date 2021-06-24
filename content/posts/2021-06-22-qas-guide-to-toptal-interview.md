@@ -15,7 +15,7 @@ Because of all the 'buts' mentioned above, It was hard for me to search and appl
 * Ideal work environment
 * How to handle your finances
 
-And may more. If you are working remotely from India(or want to) I would definitely suggest to give [RemoteIndian](https://remoteindian.com/guides) a look.
+And many more. If you are working remotely from India(or want to) I would definitely suggest to give [RemoteIndian](https://remoteindian.com/guides) a look.
 
 I also got to know that Abhishek was part of this hip remote work platform named **Toptal.** I thought of giving it a try and see how it goes. Fast forward two years, I have been part of Toptal for more than two years now. I get asked a lot about my interview experience at Toptal. So, I thought of gathering all my thoughts in this one post. 
 
