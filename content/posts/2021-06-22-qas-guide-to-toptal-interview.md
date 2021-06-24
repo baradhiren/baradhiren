@@ -50,7 +50,13 @@ Toptal claims to cater **Top 3% of Freelance Talent**. It matters to them that y
 
 ### Project
 
-If you passed the technical round you will be given a project. You will be starting from scratch and covering everything. Like an Automation framework with CI/CD implementation. You will have one week's time to complete the project and submit it.
+If you passed the technical round you will be given a project. You will receive a project requirement document and what other tasks you may have to fulfill. This may contain multiple tasks. Such as: 
+
+* Create an Automation framework with complete CI/CD implementation. 
+* Create a test plan with UI and API test cases for some specific application.
+* Create performance test cases for some specific scenario.
+
+You will have one week's time to complete the project and submit it.
 
 ### Retrospecting your Choices
 
