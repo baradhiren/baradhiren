@@ -40,7 +40,7 @@ This round will be a 10-20 minutes call and someone from Toptal will be validati
 
 ### Validating your Skills
 
-Toptal claims to cater **Top 3% of Freelance Talent**. So, it matters to them that you are best at what you do. This round will be 45-60 minutes of technical round. The discussions can range from your technical expertise in specific technologies to a coding test. 
+Toptal claims to cater **Top 3% of Freelance Talent**. It matters to them that you are best at what you do. This round will be 45-60 minutes of technical round. The discussions can range from your technical expertise in specific technologies to a coding test. 
 
 #### Tips:
 
