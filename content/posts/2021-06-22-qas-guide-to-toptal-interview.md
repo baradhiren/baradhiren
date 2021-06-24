@@ -60,11 +60,13 @@ You will have one week's time to complete the project and submit it.
 
 ### Retrospecting your Choices
 
-If you have made it this far.. you are most likely to get selected. In this round you will be most likely discussing the decisions you made while completing your week long projects. A lot of Hows and Whys. It can also cover some technical discussion related to the project you finished.
+If you have made it this far, you are most likely to get selected. In this round you will be discussing the decisions you made while completing your week long project. A lot of Hows and Whys. It can also cover some technical discussion related to the project you finished.
+
+Once you are done with that you will receive a mail to get onboarded on Toptal.
 
  So, that's about it. If you found this post helpful feel free to use this [link](https://topt.al/zdc75q) to register at Toptal. And I wish you **All the Best**.
 
-It's OK if you don't get selected, It is not a big deal. Toptal gives you another chance to apply after a break of couple of months. Also, there are lots of other freelance platforms that you can apply. I have listed them below:
+It's OK if you don't get selected, Toptal gives you another chance to apply after a break of couple of months. Also, there are lots of other freelance platforms that you can apply to. I have listed some of them below:
 
 1. [Gigster](https://www.gigster.com/)
 2. [Upstack ](https://upstack.co/)
@@ -72,7 +74,7 @@ It's OK if you don't get selected, It is not a big deal. Toptal gives you anothe
 4. [Arc](https://arc.dev/)
 5. [Gun.io](https://www.gun.io/)
 
-When I started searching for Remote Work in 2017, I never thought that there will be a global pandemic. Which will force everyone to go remote (partially or fully). But thinking optimistically it has introduced this wonderful form of working to a larger audience. And it is not going anywhere any time soon.
+When I started searching for Remote Work in 2017, I never thought that there will be a global pandemic. And it will force everyone to go remote (partially or fully). But thinking optimistically, It has introduced this wonderful way of working to a larger audience. And it is not going anywhere any time soon.
 
 What are your thoughts? Share them in comments below.
 
