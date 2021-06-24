@@ -17,15 +17,15 @@ Because of all the 'buts' mentioned above, It was hard for me to search and appl
 
 And many more. If you are working remotely from India(or want to) I would definitely suggest to give [RemoteIndian](https://remoteindian.com/guides) a look.
 
-I also got to know that Abhishek was part of this hip remote work platform named **Toptal.** I thought of giving it a try and see how it goes. Fast forward to now, I have been part of Toptal for more than two years now. I get asked a lot about my interview experience at Toptal. So, I thought of gathering all my thoughts in this one post. 
+I also got to know that Abhishek was part of this hip remote work platform named **Toptal.** I thought of giving it a try and see how it goes. Fast forward to now, I have been part of Toptal for more than two years now. I get asked a lot about my interview experience at Toptal. So, I thought of gathering all my thoughts in this post. 
 
-If you find this post helpful please consider using my [referral link](https://topt.al/zdc75q) to register on the platform.
+If you find this post helpful please consider using my [referral link](https://topt.al/zdc75q) to register on Toptal.
 
-The thoughts that I have shared below is more for a QA appying to Toptal. But if you are someone who comes from a Development background, Feel free to check this amazing article from [Avi](https://dev.to/aviaryan/the-toptal-hiring-process-for-freelancers-27jp).
+The thoughts that I have shared below is more for a QA applying to Toptal. If you are someone who comes from a Development background, Feel free to check this amazing article from [Avi](https://dev.to/aviaryan/the-toptal-hiring-process-for-freelancers-27jp).
 
 ## Interview Process
 
-Toptal's interview process consists of total 4 rounds. They can be categorized as below:
+Toptal's interview process consists of total 4 rounds. They can be described as below:
 
 1. English Proficiency
 2. Validating your Skills
@@ -34,7 +34,7 @@ Toptal's interview process consists of total 4 rounds. They can be categorized a
 
 ### English Proficiency
 
-Once you are part of Toptal you will be working for clients from all over the world. Toptal expects people on their network to be proficient in English. This round gives them assurance that you will be able to understand client requirements and contribute back with best of your capabilities. Communication is also a very integral part of working Remote. So, you want to make sure you can fluently express your thoughts in English.
+Once you are part of Toptal you will be working for clients from all over the world. Toptal expects people on their network to be proficient in English. This helps provide them assurance that you will be able to understand client requirements and communicate back with best of your capabilities. Communication is also a very integral part of working Remote. So, you want to make sure you can fluently express your thoughts in English.
 
 This round will be a 10-20 minutes call and someone from Toptal will be validating your English speaking skills.
 
