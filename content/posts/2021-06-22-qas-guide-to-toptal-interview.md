@@ -3,6 +3,10 @@ layout: blog
 title: Your guide to Toptal Interview
 date: 2021-06-22T08:33:41.318Z
 thumbnail: /images/uploads/image-1580161099861-f2f871d16892f5b8859b0822fa740cc3.png
+tags:
+  - Interview
+  - Remote Work
+categories: interview
 rating: 4
 ---
 It was 2017, When I first learned about something called **Remote Work.** The idea of working from anywhere, anytime and the possibility of meeting new people and learning new things while doing so seemed so flourishing that I couldn't stop myself from applying to remote jobs. 
