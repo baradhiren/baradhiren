@@ -5,7 +5,7 @@ date: 2021-07-10T22:14:58.620Z
 thumbnail: /images/uploads/google-chrome-logo-featured.webp
 rating: 2
 ---
-I believe language to be one of the major reasons people feel constrained exposing themselves to new ideas. They don't read or explore because most of the content to deep dive in the content of their interest is not available in the languages they understand.
+I believe language to be one of the major reasons people feel constrained exposing themselves to new ideas. They don't read or explore their ideas because most of the content to deep dive in is not available in their local languages or the ones they know.
 
 So, In this article I wanted to share a nifty way to convert any article to your native language.
 
@@ -34,8 +34,6 @@ You can achieve the same results on your laptop or desktop if you have Chrome br
 
 ***Credits:***
 
-I would like to thank my Dad for this post. When I was helping him translate all internet pages to Gujarati, I found this trick.\
-\
-I hope it helps someone out there.
+I would like to thank my Dad for this post. When I was helping him browse internet in Gujarati, I found this trick.
 
 Have any cool tricks or questions about the post? Share them in comments below.
