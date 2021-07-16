@@ -2,6 +2,8 @@
 layout: blog
 title: Read Internet in your Native Language
 date: 2021-07-10T22:14:58.620Z
+tags:
+  - Miscellaneous
 thumbnail: /images/uploads/google-chrome-logo-featured.webp
 rating: 2
 ---
