@@ -2,6 +2,8 @@
 layout: blog
 Link: https://amzn.to/3iEDoVH
 title: Let's Talk Money
+tags:
+  - book-summary
 date: 2021-07-18T18:29:20.600Z
 ---
 ![Let's Talk Money](/images/uploads/51dhinmzvol.jpg "Let's Talk Money")
