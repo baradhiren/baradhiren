@@ -11,7 +11,7 @@ date: 2021-07-18T18:29:20.600Z
 Author: Monika Halan
 
 
-Link: Amazon
+Link: [Amazon](https://amzn.to/3iEDoVH)
 
 Managing your finances is not a luxury for the rich, it is hygiene for everyone.
 
@@ -21,7 +21,7 @@ Managing your finances is not a luxury for the rich, it is hygiene for everyone.
 
 - - -
 
-### Rule of 72
+## Rule of 72
 
 Suppose the agent says: Your Rs 1 lakh will grow to Rs 2 lakhs in fifteen years, divide 72 by 15. Your return per year is 4.8 per cent, which is near the 4.73 number that
 
