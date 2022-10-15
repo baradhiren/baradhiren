@@ -2,10 +2,12 @@
 title: Tools to try out GTD
 date: 2021-06-15 07:42:06
 tags:
-    - productivity
-    - tools
+  - productivity
+  - tools
 categories: tools
-keywords: 
+keywords: null
+thumbnail: /images/uploads/pravritti-2-.png
+rating: 2
 ---
 
 # Introduction
