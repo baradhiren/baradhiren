@@ -1,5 +1,4 @@
 ## Hi there, I'm Hiren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">.
-![visitors](https://visitor-badge.glitch.me/badge?page_id=baradhiren.baradhiren)
 
 <a href="https://twitter.com/intent/follow?screen_name=baradhiren007">
    <img src="https://img.shields.io/twitter/follow/baradhiren.svg?label=Follow%20@baradhiren007" alt="Follow @baradhiren007" />
