@@ -5,19 +5,11 @@
    <img src="https://img.shields.io/twitter/follow/baradhiren.svg?label=Follow%20@baradhiren007" alt="Follow @baradhiren007" />
 </a>
 
-## A Professional QA
-👷‍♂️ Building my personal website
-
-💻 Learning Javascript and concepts of UI/UX design 
-
-📘 Currently reading [Let's Talk Money](https://amzn.to/3iEDoVH) and [Getting Things Done: The Art of Stress-free Productivity](https://amzn.to/3gjJTf0)
-
-💬 Let's talk about how we can improve software quality.
+Cultures. Systems. Design.
 
 <br/>
 <br/>
 
-This repo is source code for my personal website which is hosted [here](https://www.baradhiren.com). 
 Have a look to know more about my work and other projects.
 
 The site is still under active development. So, feel free to open an issue if you have any suggestions.
