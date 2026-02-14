@@ -1,0 +1,16 @@
+# Hugo generated output
+public/
+
+# Hugo resource cache
+resources/_gen/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
