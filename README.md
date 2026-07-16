@@ -14,19 +14,6 @@ Have a look to know more about my work and other projects.
 The site is still under active development. So, feel free to open an issue if you have any suggestions.
 
 
-Here are some stats of my Github contributions:
-
-
-<a href="https://github.com/baradhiren">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=baradhiren&theme=dark&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db" />
-</a>
-<a href="https://github.com/baradhiren">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baradhiren&theme=dark&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" />
-</a>
-<br/>
-<br/>
-<br/>
-
 ### Connect with me:
 
 [<img align="left" alt="hiren.pravritti.org" width="22px" src="https://img.icons8.com/cotton/2x/domain.png" />][website]
